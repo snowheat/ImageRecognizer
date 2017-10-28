@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Image Recognizer</string>
+
+    <string-array name="mode_array">
+        <item>Wajah</item>
+        <item>Karakter</item>
+    </string-array>
+
+</resources>
